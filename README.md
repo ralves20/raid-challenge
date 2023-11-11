@@ -1,5 +1,5 @@
 # PROJECT: Challenges 
-The Challenge of the Lemonade Stand
+This repository consists in resolve 3 specific challenges, which are all described following.
 
 ## About the Challenge 1
 Develop a function to manage transactions in a lemonade store. Add tests to ensure the
