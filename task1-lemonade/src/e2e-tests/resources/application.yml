@@ -1,0 +1,4 @@
+endpoints:
+  lemonades:
+    post:
+      request-item: "/api/products/"
