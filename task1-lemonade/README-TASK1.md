@@ -60,7 +60,7 @@ Serenity BDD helps you write cleaner and more maintainable automated acceptance 
 * [Cucumber JVM](https://cucumber.io/docs/cucumber/)
 * [Selenium Webdriver](https://selenium.dev/projects/)
 * [RestAssured](http://rest-assured.io/)
-* ![ScreenPlay Pattern Model](https://serenity-js.org/handbook/design/images/the-screenplay-pattern.png)
+* Screenplay Pattern ![ScreenPlay Pattern Model](https://serenity-bdd.github.io/assets/images/screenplay-model-d488f442690c701509fec447d3200a99.svg)
 
 ### 4.2. Installing the dependencies
 Inside the project folder run the command `mvn clean install` to install all the necessary dependencies.
